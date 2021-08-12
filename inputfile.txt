@@ -1,0 +1,8 @@
+5
+Lahore     Faisalabad    9    2
+Lahore     Multan    12    1
+Faisalabad    Islamabad    18    0.5
+Faisalabad    Multan    6    10
+Faisalabad    Sheikhupura    20    5
+Multan    Sheikhupura    15    6
+
